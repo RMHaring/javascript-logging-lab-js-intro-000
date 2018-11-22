@@ -1,3 +1,3 @@
-console.error(HALP!)
-console.log(Aghhh!)
-console.warn(STOP!)
+console.error("HALP!")
+console.log('Aghhh!')
+console.warn('STOP!')
